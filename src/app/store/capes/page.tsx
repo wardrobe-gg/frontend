@@ -7,7 +7,7 @@ export default function ComingSoonPage() {
         Coming Soon
       </h1>
       <p className="text-lg text-custom-gray-light">
-        We're working hard to bring something amazing to you. Stay tuned!
+        We&apos;re working hard to bring something amazing to you. Stay tuned!
       </p>
     </div>
   );
